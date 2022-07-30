@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "caca_niquel",
+    "slug": "caca_niquel",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
